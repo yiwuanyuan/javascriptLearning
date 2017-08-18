@@ -1,0 +1,6 @@
+<script>
+var message = "hello world";
+if(message){
+  alert("value is true);
+  }
+ 
